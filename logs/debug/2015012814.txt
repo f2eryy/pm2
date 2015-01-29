@@ -1,0 +1,85 @@
+[2015-01-28 14:29:47.863] [DEBUG] logDebug - { NDT: 1422426587861,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:32:05.814] [DEBUG] logDebug - { NDT: 1422426725812,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:32:07.163] [DEBUG] logDebug - { NDT: 1422426727161,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:33:04.295] [DEBUG] logDebug - { NDT: 1422426784294,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:34:30.563] [DEBUG] logDebug - { NDT: 1422426870561,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:37:02.518] [DEBUG] logDebug - { NDT: 1422427022517,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:40:33.581] [DEBUG] logDebug - { NDT: 1422427233579,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:40:34.272] [DEBUG] logDebug - { NDT: 1422427234272,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:42:34.287] [DEBUG] logDebug - { NDT: 1422427354287,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:44:37.938] [DEBUG] logDebug - { NDT: 1422427477936,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:47:54.353] [DEBUG] logDebug - { NDT: 1422427674352,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:47:55.061] [DEBUG] logDebug - { NDT: 1422427675061,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:48:16.339] [DEBUG] logDebug - { NDT: 1422427696338,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:48:17.133] [DEBUG] logDebug - { NDT: 1422427697133,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:48:48.486] [DEBUG] logDebug - { NDT: 1422427728484,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:48:49.069] [DEBUG] logDebug - { NDT: 1422427729069,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 14:50:49.072] [DEBUG] logDebug - { NDT: 1422427849071,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }

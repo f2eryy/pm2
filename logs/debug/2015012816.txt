@@ -1,0 +1,15 @@
+[2015-01-28 16:55:55.022] [DEBUG] logDebug - { NDT: 1422435355022,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 16:55:55.347] [DEBUG] logDebug - { NDT: 1422435355347,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 16:55:56.238] [DEBUG] logDebug - { NDT: 1422435356237,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }

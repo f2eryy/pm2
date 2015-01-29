@@ -1,0 +1,90 @@
+[2015-01-28 18:18:13.402] [DEBUG] logDebug - { NDT: 1422440293386,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:13.779] [DEBUG] logDebug - { NDT: 1422440293779,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:19.665] [DEBUG] logDebug - { NDT: 1422440299664,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:21.289] [DEBUG] logDebug - { NDT: 1422440301288,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:22.362] [DEBUG] logDebug - { NDT: 1422440302360,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:23.529] [DEBUG] logDebug - { NDT: 1422440303528,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:24.585] [DEBUG] logDebug - { NDT: 1422440304585,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:25.402] [DEBUG] logDebug - { NDT: 1422440305402,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:40.098] [DEBUG] logDebug - { NDT: 1422440320098,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:41.587] [DEBUG] logDebug - { NDT: 1422440321587,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:42.839] [DEBUG] logDebug - { NDT: 1422440322839,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:43.794] [DEBUG] logDebug - { NDT: 1422440323794,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:18:44.829] [DEBUG] logDebug - { NDT: 1422440324829,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:19:57.958] [DEBUG] logDebug - { NDT: 1422440397956,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:19:58.215] [DEBUG] logDebug - { NDT: 1422440398214,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:20:08.113] [DEBUG] logDebug - { NDT: 1422440408112,
+  path: '/',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:20:28.602] [DEBUG] logDebug - { NDT: 1422440428602,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
+[2015-01-28 18:21:58.229] [DEBUG] logDebug - { NDT: 1422440518228,
+  path: '/favicon.ico',
+  rhh: '192.168.34.3:3002',
+  rhu: 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2243.0 Safari/537.36',
+  params: {} }
